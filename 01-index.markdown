@@ -7,7 +7,7 @@ title: Call for papers
 permalink: /
 ---
 
-This workshop sets the goal of presenting the visionary papers and talks from research and practice in the
+The workshop "Next steps in IoT-Edge-Cloud Continuum Evolution: Research and Practice", co-hosted with Euro-PAR 2024, sets the goal of presenting the visionary papers and talks from research and practice in the
 evolution of the computing continuum encompassing IoT, edge and cloud. From the challenges of system
 performance, management and ambitious vision towards a single MetaOS in the continuum, there is a
 broad set of topics to be addressed. This call invites for the technical presentations and interactive
@@ -47,3 +47,4 @@ architectures and applications.
 * Paper submission deadline: May 6th, 2024  - AoE
 * Authors notification: June 17th, 2024
 * Camera-ready of accepted papers due: July 1st, 2024
+* August 28/29/30th (still to be decided) 2024, Universidad Carlos III de Madrid
