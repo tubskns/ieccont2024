@@ -4,6 +4,7 @@
 
 layout: home
 title: Call for papers
+permalink: /
 ---
 
 This workshop sets the goal of presenting the visionary papers and talks from research and practice in the
