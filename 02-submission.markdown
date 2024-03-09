@@ -30,6 +30,7 @@ permalink: /submission/
 Authors are invited to submit papers electronically, through EasyChair
 
 * Link for submission: [easychair.org/europar](https://easychair.org/conferences/?conf=europar24-ws-phd-poster-whpc)
+* Choose the track "Next steps in IoT-Edge-Cloud Continuum Evolution: Research and Practice"
 * More details will be added here shortly
 
 # Important Dates
