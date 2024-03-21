@@ -47,4 +47,4 @@ architectures and applications.
 * Paper submission deadline: May 20th, 2024  - AoE
 * Authors notification: June 17th, 2024
 * Camera-ready of accepted papers due: July 1st, 2024
-* August 28/29/30th (still to be decided) 2024, Universidad Carlos III de Madrid
+* August 28/29/30th (exact day still to be decided) 2024, Universidad Carlos III de Madrid
