@@ -27,7 +27,7 @@ permalink: /submission/
 
 # Submission Instructions
 
-Submission Guidelines: Authors are invited to submit papers electronically, through [EasyChair](https://easychair.org/conferences/?conf=europar24-ws-phd-poster-whpc) to the track "Next steps in IoT-Edge-Cloud Continuum Evolution: Research and Practice". The papers should be submitted in PDF, following the Springer LNCS format . Paper length must be 6 to 10 pages (including references). All submitted manuscripts will be checked for originality by Springer iThenticate (papers that show an insufficient originality might be rejected without a review).
+Submission Guidelines: Authors are invited to submit papers electronically, through [EasyChair](https://easychair.org/conferences/?conf=europar24-ws-phd-poster-whpc) to the track "Next steps in IoT-Edge-Cloud Continuum Evolution: Research and Practice". The papers should be submitted in PDF, following the Springer [LNCS](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) format . Paper length must be 6 to 10 pages (including references). All submitted manuscripts will be checked for originality by Springer iThenticate (papers that show an insufficient originality might be rejected without a review).
 
 # Important Dates
 
