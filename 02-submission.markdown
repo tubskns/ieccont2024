@@ -34,4 +34,4 @@ Submission Guidelines: Authors are invited to submit papers electronically, thro
 * Paper submission deadline: May ~~20th~~ 27th, 2024  - AoE
 * Authors notification: June 17th, 2024
 * Camera-ready of accepted papers due: July 1st, 2024
-* August 26th 2024, Universidad Carlos III de Madrid
+* August 27th 2024, Universidad Carlos III de Madrid
