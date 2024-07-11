@@ -13,6 +13,7 @@ Please find venue information at the official [EURO-PAR website](https://2024.eu
 9:05 - 10:00 | Keynote speaker Mohit Chamania, Google (to be announced)
 
 ## Session 2 (10:30 - 12:30)
+
 10:30 - 10:50 | "LOMOS: Runtime Security Monitoring Fit for the Cloud Continuum", Joao Pita Costa, Hrvoje Ratkajec, Daniel Vladušič, Tomaž Martinčič, Aleš Černivec, Justin Činkelj, Rosalia Davi, Simone Favrin, Lorenzo Gorza and Gilda di Marco
 10:55 - 11:15 | "Taming the Swarm: a role-based approach for autonomous agents", Francesc-Josep Lordan Gomis, Xavier Casas, Philip Cummins, Javier Conejero, Rosa M. Badia and Raül Sirvent
 11:20 - 11:40 | "Offloading PyTorch Collective Operations to Independent Programmable Logic at the Edge", Chanaka Hettige, Ankush Pathak, Luke D'Alessandro and Martin Swany
