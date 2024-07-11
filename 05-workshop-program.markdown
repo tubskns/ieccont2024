@@ -9,8 +9,8 @@ Please find venue information at the official [EURO-PAR website](https://2024.eu
 
 ## Session 1 (9:00 - 10:00)
 
-* 9:00 - 9:05 | Opening note, Admela Jukan, TU Braunschweig and Rosa Badia, BSC
-* 9:05 - 10:00 | Keynote speaker Mohit Chamania, Google (to be announced)
+9:00 - 9:05 | Opening note, Admela Jukan, TU Braunschweig and Rosa Badia, BSC
+9:05 - 10:00 | Keynote speaker Mohit Chamania, Google (to be announced)
 
 ## Session 2 (10:30 - 12:30)
 * 10:30 - 10:50 | "LOMOS: Runtime Security Monitoring Fit for the Cloud Continuum", Joao Pita Costa, Hrvoje Ratkajec, Daniel Vladušič, Tomaž Martinčič, Aleš Černivec, Justin Činkelj, Rosalia Davi, Simone Favrin, Lorenzo Gorza and Gilda di Marco
