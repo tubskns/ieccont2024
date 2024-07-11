@@ -5,7 +5,7 @@ permalink: /program/
 ---
 # Workshop Program, August 27th 2024
 
-Please find venue information at the official [EURO-PAR website](https://2024.euro-par.org/nc/attending/). The full workshop program information can be found [here](https://2024.euro-par.org/program/program/). Note that there has been a name change of the workshop to IETCONT in the program.
+Please find venue information at the official [EURO-PAR website](https://2024.euro-par.org/nc/attending/). The full workshop program information can be found [here](https://2024.euro-par.org/program/program/). Note that there has been a name change of the workshop to IOTCONT in the program.
 
 ## Session 1 (9:00 - 10:00)
 
