@@ -12,6 +12,8 @@ Please find venue information at the official [EURO-PAR website](https://2024.eu
 9:00 - 9:05 | Opening note, Admela Jukan, TU Braunschweig and Rosa Badia, BSC
 9:05 - 10:00 | Keynote speaker Mohit Chamania, Google (to be announced)
 
+## Coffee Break (10:00 - 10:30)
+
 ## Session 2 (10:30 - 12:30)
 
 10:30 - 10:50 | "LOMOS: Runtime Security Monitoring Fit for the Cloud Continuum", Joao Pita Costa, Hrvoje Ratkajec, Daniel Vladušič, Tomaž Martinčič, Aleš Černivec, Justin Činkelj, Rosalia Davi, Simone Favrin, Lorenzo Gorza and Gilda di Marco
@@ -19,6 +21,8 @@ Please find venue information at the official [EURO-PAR website](https://2024.eu
 11:20 - 11:40 | "Offloading PyTorch Collective Operations to Independent Programmable Logic at the Edge", Chanaka Hettige, Ankush Pathak, Luke D'Alessandro and Martin Swany
 11:45 - 12:05 | "Evaluation of Multi-Armed Bandit algorithms for efficient resource allocation in Edge platforms", Jiangbo Wang, Stéphane Zuckerman and Juan Angel Lorenzo Del Castillo
 12:10 - 12:30 | "Placing Computational Tasks within Edge-Cloud Continuum: a DRL Delay Minimization Scheme", Anastasios Giannopoulos, Andrés L. Suárez-Cetrulo, Xavi Masip-Bruin, Francesco D'Andria and Panagiotis Trakadas
+
+## Lunch Break (12:30 - 13:30)
 
 ## Session 3 (13:30 - 15:00)
 
