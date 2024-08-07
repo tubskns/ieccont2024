@@ -10,7 +10,7 @@ Please find venue information at the official [EURO-PAR website](https://2024.eu
 ## Session 1 (9:00 - 10:00)
 
 9:00 - 9:05 | Opening note, Admela Jukan, TU Braunschweig and Rosa Badia, BSC
-9:05 - 10:00 | Keynote speaker Mohit Chamania, Google (to be announced)
+9:05 - 10:00 | Keynote speaker Mohit Chamania, Google
 
 ## Coffee Break (10:00 - 10:30)
 
