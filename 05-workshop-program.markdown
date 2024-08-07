@@ -22,7 +22,6 @@ Please find venue information at the official [EURO-PAR website](https://2024.eu
 
 ## Session 3 (13:30 - 15:00)
 
-13:30 - 14:30 | Keynote speaker 2 (to be announced)
-14:30 - 14:50 | "Navigating the Dynamic Heterogeneous Computing Sphere: The Role of EdgeHarbor as a Multi-Edge Orchestrator", Francesco D'Andria, Alex Volkov and Josep Martrat
-14:55 - 15:15 | "Multi-component Application Mapping across the Continuum", Jordi Garcia, Montse Farreras, Waseem Sajjad and Xavi Masip-Bruin
-15:20 - 15:40 | "An experimental study of the response time in an edge-cloud continuum with ClusterLink", Marc Michalke, Fin Gentzen, Admela Jukan, Kfir Toledo and Etai Lev-Ran
+13:30 - 13:50 | "Navigating the Dynamic Heterogeneous Computing Sphere: The Role of EdgeHarbor as a Multi-Edge Orchestrator", Francesco D'Andria, Alex Volkov and Josep Martrat
+13:55 - 14:15 | "Multi-component Application Mapping across the Continuum", Jordi Garcia, Montse Farreras, Waseem Sajjad and Xavi Masip-Bruin
+14:20 - 14:40 | "An experimental study of the response time in an edge-cloud continuum with ClusterLink", Marc Michalke, Fin Gentzen, Admela Jukan, Kfir Toledo and Etai Lev-Ran
